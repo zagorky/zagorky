@@ -3,6 +3,10 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagorky&hide_progress=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky&show_icons=true)
+
+
 **codewars**
 <a href="https://www.codewars.com/users/rsschool_cbf0adbadf0eb26d">
   <img src="https://www.codewars.com/users/rsschool_cbf0adbadf0eb26d/badges/large" height="24">
