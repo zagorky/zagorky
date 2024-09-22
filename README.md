@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagorky&hide_progress=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky)](https://github.com/zagorky/github-readme-stats)
 
 
 **codewars**
