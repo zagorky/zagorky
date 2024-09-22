@@ -1,10 +1,12 @@
 ## Hi there 👋
-🌱 I’m currently learning 
 
 
+## 🌱 I’m currently learning 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagorky&hide_progress=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky)](https://github.com/zagorky/github-readme-stats)
+## My Stats ⚡
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zagorky&theme=shadow-orange)](https://git.io/streak-stats)  
 
 
 **codewars**
