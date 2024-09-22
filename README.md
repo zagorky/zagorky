@@ -14,7 +14,9 @@
   <img src="https://www.codewars.com/users/rsschool_cbf0adbadf0eb26d/badges/large" height="24">
 </a>
 
+## My Stats
 
+[![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky)](https://github.com/zagorky/github-readme-stats)
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zagorky&theme=shadow-orange)](https://git.io/streak-stats)  -->
 
 <!--
