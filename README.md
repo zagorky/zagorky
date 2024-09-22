@@ -16,7 +16,9 @@
 
 ## My Stats
 
-![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky\&rank_icon=github)(https://github.com/zagorky/github-readme-stats)
+![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky\&rank_icon=github)
+
+
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zagorky&theme=shadow-orange)](https://git.io/streak-stats)  -->
 
