@@ -1,4 +1,9 @@
 ## Hi there 👋
+#### I'm Melnikova Daria
+### My contacts:
+- Telegram: zagorky
+- Discord: Daria Melnikova (zagorky)
+- E-mail: immelnikovadaria@inbox.ru
 
 
 ## 🌱 I’m currently learning 
