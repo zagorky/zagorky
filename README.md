@@ -2,7 +2,7 @@
 🌱 I’m currently learning 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breadcrumbszagorky&layout=donut)](https://github.com/Breadcrumbszagorky/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagorky&layout=donut)](https://github.com/zagorky/github-readme-stats)
 
 **codewars**
 <a href="https://www.codewars.com/users/rsschool_cbf0adbadf0eb26d">
