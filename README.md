@@ -22,7 +22,8 @@
 
 ##### Anime Randomizer
 - Stack:HTML5, SASS, TypeScript, ReactJS, React Query, Axios, clsx. React Router DOM, Vite
-- Deploy: [https://zagorky.github.io/AnimeRandomizer/] (https://zagorky.github.io/AnimeRandomizer/)
+- Deploy: [https://zagorky.github.io/AnimeRandomizer/](https://zagorky.github.io/AnimeRandomizer/)
+- Repo: [https://github.com/zagorky/AnimeRandomizer?tab=readme-ov-file](https://github.com/zagorky/AnimeRandomizer?tab=readme-ov-file)
 - ![]()
 
 
