@@ -18,6 +18,14 @@
 
 ![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky\&rank_icon=github)
 
+## My projects
+
+##### Anime Randomizer
+- Stack:HTML5, SASS, TypeScript, ReactJS, React Query, Axios, clsx. React Router DOM, Vite
+- Deploy: [https://zagorky.github.io/AnimeRandomizer/] (https://zagorky.github.io/AnimeRandomizer/)
+- ![]()
+
+
 
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zagorky&theme=shadow-orange)](https://git.io/streak-stats)  -->
