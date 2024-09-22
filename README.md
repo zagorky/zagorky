@@ -2,7 +2,9 @@
 🌱 I’m currently learning 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
+
 **codewars**
 <a href="https://www.codewars.com/users/rsschool_cbf0adbadf0eb26d">
   <img src="https://www.codewars.com/users/rsschool_cbf0adbadf0eb26d/badges/large" height="24">
