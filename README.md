@@ -28,6 +28,22 @@
 
 ![gif](https://github.com/zagorky/zagorky/blob/main/src/animeRand.gif)
 
+### Audio Player
+
+- Stack:HTML5, CSS, JS
+- Deploy: [zagorky.github.io/audio-player/audio-player/](zagorky.github.io/audio-player/audio-player/)
+- Repo: [https://github.com/zagorky/Audio-player/tree/gh-pages](https://github.com/zagorky/Audio-player/tree/gh-pages)
+
+![gif](https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/player.gif)
+
+### Shelter
+
+- Stack:HTML5, CSS, JS
+- Deploy: [https://zagorky.github.io/shelter/shelter/](https://zagorky.github.io/shelter/shelter/)
+- Repo: [https://github.com/zagorky/Shelter](https://github.com/zagorky/Shelter)
+
+![gif](https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/shelter.gif)
+
 ### Tic Tac Toe
 
 - Stack:HTML5, CSS, ReactJS
