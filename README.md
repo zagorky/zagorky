@@ -15,7 +15,7 @@
 
 ## My Stats
 
-[![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky&guthub_logo)](https://github.com/zagorky/github-readme-stats)
+[![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky\&rank_icon=github)](https://github.com/zagorky/github-readme-stats)
 
 ## ✨ Codewars
 
