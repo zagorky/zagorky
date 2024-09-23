@@ -11,6 +11,12 @@
 ## 🌱 I’m currently learning
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagorky&layout=compact)
+
+
+## My Stats
+
+[![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky)](https://github.com/zagorky/github-readme-stats)
+
 ## ✨ Codewars
 
 <a href="https://www.codewars.com/users/rsschool_cbf0adbadf0eb26d">
