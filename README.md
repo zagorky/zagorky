@@ -10,7 +10,7 @@
 
 ## 🌱 I’m currently learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagorky&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagorky)](https://github.com/zagorky/github-readme-stats)
 
 ## ✨ Codewars
 
