@@ -12,10 +12,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagorky&layout=compact)
 
-
 ## My Stats
 
-[![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky\&rank_icon=github)](https://github.com/zagorky/github-readme-stats)
+[![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky&rank_icon=github)](https://github.com/zagorky/github-readme-stats)
 
 ## ✨ Codewars
 
@@ -48,6 +47,22 @@
 - Repo: [https://github.com/zagorky/Shelter](https://github.com/zagorky/Shelter)
 
 ![gif](https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/shelter.gif)
+
+### Whack-A-Mole
+
+- Stack:HTML5, CSS, JS
+- Deploy: [https://zagorky.github.io/Whack-A-Mole/whack-a-mole/](https://zagorky.github.io/Whack-A-Mole/whack-a-mole/)
+- Repo: [https://github.com/zagorky/Whack-A-Mole](https://github.com/zagorky/Whack-A-Mole)
+
+![gif](https://github.com/zagorky/zagorky/blob/main/src/game.gif)
+
+### Photo Gallery
+
+- Stack:HTML5, CSS, JS
+- Deploy: [https://zagorky.github.io/Photo-gallery/photo-gallery/](https://zagorky.github.io/Photo-gallery/photo-gallery/)
+- Repo: [https://github.com/zagorky/Photo-gallery](https://github.com/zagorky/Photo-gallery)
+
+![gif](https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/gallery.gif)
 
 ### Tic Tac Toe
 
