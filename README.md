@@ -1,7 +1,3 @@
-## Hi there 👋
-
-#### I'm Melnikova Daria
-
 ## 📫 My contacts:
 
 - Telegram: zagorky
