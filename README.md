@@ -1,7 +1,6 @@
 ## 📫 My contacts:
 
-- Telegram: zagorky
-- Discord: Daria Melnikova (zagorky)
+
 - E-mail: immelnikovadaria@inbox.ru
 
 ## 🌱 I’m currently learning
