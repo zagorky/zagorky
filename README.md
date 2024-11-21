@@ -46,7 +46,7 @@
 ### Whack-A-Mole
 
 - Stack:HTML5, CSS, JS
-- Deploy: [https://zagorky.github.io/Whack-A-Mole/whack-a-mole/](https://zagorky.github.io/Whack-A-Mole/whack-a-mole/)
+- Deploy: [https://zagorky.github.io/Whack-A-Mole/random-game/](https://zagorky.github.io/Whack-A-Mole/random-game/) 
 - Repo: [https://github.com/zagorky/Whack-A-Mole](https://github.com/zagorky/Whack-A-Mole)
 
 ![gif](https://github.com/zagorky/zagorky/blob/main/src/game.gif)
