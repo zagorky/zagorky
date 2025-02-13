@@ -11,13 +11,18 @@
 
 [![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky&rank_icon=github)](https://github.com/zagorky/github-readme-stats)
 
-## ✨ Codewars
-
-<a href="https://www.codewars.com/users/rsschool_cbf0adbadf0eb26d">
-  <img src="https://www.codewars.com/users/rsschool_cbf0adbadf0eb26d/badges/large" height="24">
-</a>
 
 ## My projects
+
+### Nonograms
+
+- Stack: JS, SASS
+- Deploy: [https://zagorky.github.io/Nonograms/nonograms/](https://zagorky.github.io/Nonograms/nonograms/)
+- Repo: [https://github.com/zagorky/Nonograms/tree/nonograms](https://github.com/zagorky/Nonograms/tree/nonograms)
+- Fatures: try to implicit VMC pattern and use Simple StateMachine
+
+  ![gif](https://github.com/user-attachments/assets/0294a494-421b-45c3-8e9f-df8fc5b19136)
+
 
 ### Anime Randomizer
 
@@ -34,14 +39,6 @@
 - Repo: [https://github.com/zagorky/Audio-player/tree/gh-pages](https://github.com/zagorky/Audio-player/tree/gh-pages)
 
 ![gif](https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/player.gif)
-
-### Shelter
-
-- Stack:HTML5, CSS, JS
-- Deploy: [https://zagorky.github.io/Shelter/shelter/](https://zagorky.github.io/Shelter/shelter/)
-- Repo: [https://github.com/zagorky/Shelter](https://github.com/zagorky/Shelter)
-
-![gif](https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/shelter.gif)
 
 ### Whack-A-Mole
 
@@ -67,21 +64,6 @@
 
 ![gif](https://github.com/zagorky/zagorky/blob/main/src/tic.gif)
 
-### Css Meme Slider
-
-- Stack:HTML5, CSS
-- Deploy: [https://zagorky.github.io/cssMemeSlider/cssMemeSlider/](https://zagorky.github.io/cssMemeSlider/cssMemeSlider/)
-- Repo: [https://github.com/zagorky/cssMemeSlider/tree/gh-pages](https://github.com/zagorky/cssMemeSlider/tree/gh-pages)
-
-![gif](https://github.com/zagorky/zagorky/blob/main/src/cssMeme.gif)
-
-### Sputnik (Teamwork)
-
-- Stack:HTML5, CSS, JS
-- Deploy: [https://zagorky.github.io/Sputnik/](https://zagorky.github.io/Sputnik/)
-- Repo: [https://github.com/zagorky/Sputnik](https://github.com/zagorky/Sputnik)
-
-![gif](https://github.com/zagorky/zagorky/blob/main/src/sp.gif)
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zagorky&theme=shadow-orange)](https://git.io/streak-stats)  -->
 
