@@ -16,10 +16,10 @@
 
 ### Nonograms
 
-- Stack: JS, SASS
+- Stack: JS, SASS, Vite
 - Deploy: [https://zagorky.github.io/Nonograms/nonograms/](https://zagorky.github.io/Nonograms/nonograms/)
 - Repo: [https://github.com/zagorky/Nonograms/tree/nonograms](https://github.com/zagorky/Nonograms/tree/nonograms)
-- Features: try to implicit VMC pattern and use Simple StateMachine
+- Features: try to implicit MVC pattern and use Simple StateMachine
 
   ![gif](https://github.com/user-attachments/assets/0294a494-421b-45c3-8e9f-df8fc5b19136)
 
