@@ -2,6 +2,7 @@
 
 
 - E-mail: immelnikovadaria@inbox.ru
+- Discord: zagorky
 
 ## 🌱 I’m currently learning
 
@@ -10,7 +11,6 @@
 ## My Stats
 
 [![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky&rank_icon=github)](https://github.com/zagorky/github-readme-stats)
-
 
 ## My projects
 
@@ -32,37 +32,42 @@
 
 ![gif](https://github.com/zagorky/zagorky/blob/main/src/animeRand.gif)
 
-### Audio Player
+[//]: # (### Audio Player)
 
-- Stack:HTML5, CSS, JS
-- Deploy: [zagorky.github.io/audio-player/audio-player/](zagorky.github.io/audio-player/audio-player/)
-- Repo: [https://github.com/zagorky/Audio-player/tree/gh-pages](https://github.com/zagorky/Audio-player/tree/gh-pages)
+[//]: # ()
+[//]: # (- Stack:HTML5, CSS, JS)
 
-![gif](https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/player.gif)
+[//]: # (- Deploy: [zagorky.github.io/audio-player/audio-player/]&#40;zagorky.github.io/audio-player/audio-player/&#41;)
 
-### Whack-A-Mole
+[//]: # (- Repo: [https://github.com/zagorky/Audio-player/tree/gh-pages]&#40;https://github.com/zagorky/Audio-player/tree/gh-pages&#41;)
 
-- Stack:HTML5, CSS, JS
-- Deploy: [https://zagorky.github.io/Whack-A-Mole/random-game/](https://zagorky.github.io/Whack-A-Mole/random-game/) 
-- Repo: [https://github.com/zagorky/Whack-A-Mole](https://github.com/zagorky/Whack-A-Mole)
+[//]: # ()
+[//]: # (![gif]&#40;https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/player.gif&#41;)
 
-![gif](https://github.com/zagorky/zagorky/blob/main/src/game.gif)
+[//]: # (### Whack-A-Mole)
 
-### Photo Gallery
+[//]: # ()
+[//]: # (- Stack:HTML5, CSS, JS)
 
-- Stack:HTML5, CSS, JS
-- Deploy: [https://zagorky.github.io/Photo-gallery/photo-gallery/](https://zagorky.github.io/Photo-gallery/photo-gallery/)
-- Repo: [https://github.com/zagorky/Photo-gallery](https://github.com/zagorky/Photo-gallery)
+[//]: # (- Deploy: [https://zagorky.github.io/Whack-A-Mole/random-game/]&#40;https://zagorky.github.io/Whack-A-Mole/random-game/&#41; )
 
-![gif](https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/gallery.gif)
+[//]: # (- Repo: [https://github.com/zagorky/Whack-A-Mole]&#40;https://github.com/zagorky/Whack-A-Mole&#41;)
 
-### Tic Tac Toe
+[//]: # ()
+[//]: # (![gif]&#40;https://github.com/zagorky/zagorky/blob/main/src/game.gif&#41;)
 
-- Stack:HTML5, CSS, ReactJS
-- Deploy: [https://zagorky.github.io/tic_tac_toe/](https://zagorky.github.io/tic_tac_toe/)
-- Repo: [https://github.com/zagorky/tic_tac_toe/](https://github.com/zagorky/tic_tac_toe/)
+[//]: # ()
+[//]: # (### Photo Gallery)
 
-![gif](https://github.com/zagorky/zagorky/blob/main/src/tic.gif)
+[//]: # ()
+[//]: # (- Stack:HTML5, CSS, JS)
+
+[//]: # (- Deploy: [https://zagorky.github.io/Photo-gallery/photo-gallery/]&#40;https://zagorky.github.io/Photo-gallery/photo-gallery/&#41;)
+
+[//]: # (- Repo: [https://github.com/zagorky/Photo-gallery]&#40;https://github.com/zagorky/Photo-gallery&#41;)
+
+[//]: # ()
+[//]: # (![gif]&#40;https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/gallery.gif&#41;)
 
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zagorky&theme=shadow-orange)](https://git.io/streak-stats)  -->
