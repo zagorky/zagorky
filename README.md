@@ -11,6 +11,7 @@
 ## My Stats
 
 [![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky&rank_icon=github)](https://github.com/zagorky/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/4ab4ec07-3d96-4308-904a-7fa4fe9a8fef.svg)](https://wakatime.com/@4ab4ec07-3d96-4308-904a-7fa4fe9a8fef)
 
 ## My projects
 
