@@ -1,19 +1,15 @@
 ## 📫 My contacts:
 
 
-- E-mail: immelnikovadaria@inbox.ru
-- Discord: zagorky
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zagorky) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:immelnikovadaria@inbox.ru) 
 
 ## 🌱 I’m currently learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagorky&layout=compact)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ## My Stats
 
-[![zagorky's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagorky&rank_icon=github)](https://github.com/zagorky/github-readme-stats)
-
-
-[//]:#([![wakatime](https://wakatime.com/badge/user/4ab4ec07-3d96-4308-904a-7fa4fe9a8fef.svg)](https://wakatime.com/@4ab4ec07-3d96-4308-904a-7fa4fe9a8fef)
+![](https://github-readme-stats.vercel.app/api?username=Zagorky&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=Zagorky&theme=dark&hide_border=false)
 
 ## My projects
 
