@@ -11,26 +11,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Zagorky&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=Zagorky&theme=dark&hide_border=false)
 
-## My projects
-
-### Nonograms
-
-- Stack: JS, SASS, Vite
-- Deploy: [https://zagorky.github.io/Nonograms/nonograms/](https://zagorky.github.io/Nonograms/nonograms/)
-- Repo: [https://github.com/zagorky/Nonograms/tree/nonograms](https://github.com/zagorky/Nonograms/tree/nonograms)
-- Features: try to implicit MVC pattern and use Simple StateMachine
-
-  ![gif](https://github.com/user-attachments/assets/0294a494-421b-45c3-8e9f-df8fc5b19136)
-
-
-### Anime Randomizer
-
-- Stack:HTML5, SASS, TypeScript, ReactJS, React Query, Axios, clsx. React Router DOM, Vite
-- Deploy: [https://zagorky.github.io/AnimeRandomizer/](https://zagorky.github.io/AnimeRandomizer/)
-- Repo: [https://github.com/zagorky/AnimeRandomizer?tab=readme-ov-file](https://github.com/zagorky/AnimeRandomizer?tab=readme-ov-file)
-
-![gif](https://github.com/zagorky/zagorky/blob/main/src/animeRand.gif)
-
 [//]: # (### Audio Player)
 
 [//]: # ()
