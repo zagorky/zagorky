@@ -1,124 +1,63 @@
-# Hello! I'm Daria 🧚
+# 🧌 About Me:
+I'm Daria and currently learning Angular and React
 
-## 📫 My contacts:
-
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zagorky) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:immelnikovadaria@inbox.ru) 
-
-
+## 📞👂🏻 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%23333A45.svg?style=for-the-badge&logo=discord&logoColor=%23EC4899&labelColor=333A45)](https://discord.gg/zagorky)
+[![Email](https://img.shields.io/badge/Email-%23333A45.svg?style=for-the-badge&logo=gmail&logoColor=%23EC4899&labelColor=333A45)](mailto:immelnikovadaria@inbox.ru)
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Tanstack Router](https://img.shields.io/badge/tanstack_router-10b981?style=for-the-badge&logoColor=fff&logo=react) 
-
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![CSS Modules](https://img.shields.io/badge/css_modules-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
-![Zustand](https://img.shields.io/badge/zustand-ccc?style=for-the-badge&label=🐻&labelColor=ccc) 
-
-![Zod](https://img.shields.io/badge/zod-3068b7?style=for-the-badge&logoColor=fff&logo=zod) 
-
-![Vitest](https://img.shields.io/badge/vitest-506e10?style=for-the-badge&logoColor=fff&logo=vitest) 
-![Testing Library](https://img.shields.io/badge/testing_library-3578e5?style=for-the-badge&logoColor=fff&logo=testing-library) 
-
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
-![Stylelint](https://img.shields.io/badge/stylelint-3578e5?style=for-the-badge&logoColor=fff&logo=stylelint) 
-![Prettier](https://img.shields.io/badge/prettier-1a2b34?style=for-the-badge&logoColor=fff&logo=prettier) 
-![Husky](https://img.shields.io/badge/husky-ccc?style=for-the-badge&label=🐶&labelColor=ccc) 
-![Commitlint](https://img.shields.io/badge/commitlint-5672cd?style=for-the-badge&logoColor=fff&logo=commitlint) 
-![lint-staged](https://img.shields.io/badge/lint--staged-ccc?style=for-the-badge&label=🚫💩&labelColor=ccc)
-
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-
+## 👅 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23333A45.svg?style=for-the-badge&logo=javascript&logoColor=%23EC4899)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23333A45.svg?style=for-the-badge&logo=typescript&logoColor=%23EC4899)
+![HTML](https://img.shields.io/badge/HTML-%23333A45.svg?style=for-the-badge&logo=html5&logoColor=%23EC4899)
+## 📚 Frameworks & Libraries
+### ⚛️ React
+![React](https://img.shields.io/badge/React-%23333A45.svg?style=for-the-badge&logo=react&logoColor=%23EC4899)
+![React Router](https://img.shields.io/badge/React_Router-%23333A45.svg?style=for-the-badge&logo=react-router&logoColor=%23EC4899)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23333A45.svg?style=for-the-badge&logo=reacthookform&logoColor=%23EC4899)
+![Zustand](https://img.shields.io/badge/Zustand-%23333A45.svg?style=for-the-badge&logo=zustand&logoColor=%23EC4899)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23333A45.svg?style=for-the-badge&logo=react-query&logoColor=%23EC4899)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-%23333A45.svg?style=for-the-badge&logo=react-router&logoColor=%23EC4899)
+![SWR](https://img.shields.io/badge/SWR-%23333A45.svg?style=for-the-badge&logo=vercel&logoColor=%23EC4899)
+### 🅰️ Angular
+![Angular](https://img.shields.io/badge/Angular-%23333A45.svg?style=for-the-badge&logo=angular&logoColor=%23EC4899)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-%23333A45.svg?style=for-the-badge&logo=angular&logoColor=%23EC4899)
+## 🎨 Styling
+![CSS3](https://img.shields.io/badge/CSS3-%23333A45.svg?style=for-the-badge&logo=css3&logoColor=%23EC4899)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23333A45.svg?style=for-the-badge&logo=tailwind-css&logoColor=%23EC4899)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-%23333A45.svg?style=for-the-badge&logo=daisyui&logoColor=%23EC4899)
+![Radix UI](https://img.shields.io/badge/Radix_UI-%23333A45.svg?style=for-the-badge&logo=radix-ui&logoColor=%23EC4899)
+## 🛠️ Tools & Utilities
+![Vite](https://img.shields.io/badge/Vite-%23333A45.svg?style=for-the-badge&logo=vite&logoColor=%23EC4899)
+![Netlify](https://img.shields.io/badge/Netlify-%23333A45.svg?style=for-the-badge&logo=netlify&logoColor=%23EC4899)
+![Git](https://img.shields.io/badge/Git-%23333A45.svg?style=for-the-badge&logo=git&logoColor=%23EC4899)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%23333A45.svg?style=for-the-badge&logo=githubactions&logoColor=%23EC4899)
+![Figma](https://img.shields.io/badge/Figma-%23333A45.svg?style=for-the-badge&logo=figma&logoColor=%23EC4899)
+## 📐 Code Quality
+![ESLint](https://img.shields.io/badge/ESLint-%23333A45.svg?style=for-the-badge&logo=eslint&logoColor=%23EC4899)
+![Prettier](https://img.shields.io/badge/Prettier-%23333A45.svg?style=for-the-badge&logo=prettier&logoColor=%23EC4899)
+![SonarQube](https://img.shields.io/badge/SonarQube-%23333A45.svg?style=for-the-badge&logo=sonarqube&logoColor=%23EC4899)
+![Husky](https://img.shields.io/badge/Husky-%23333A45.svg?style=for-the-badge&logo=git&logoColor=%23EC4899)
+![lint-staged](https://img.shields.io/badge/lint_staged-%23333A45.svg?style=for-the-badge&logo=git&logoColor=%23EC4899)
+![Biome](https://img.shields.io/badge/Biome-%23333A45.svg?style=for-the-badge&logo=biome&logoColor=%23EC4899)
+![Stylelint](https://img.shields.io/badge/Stylelint-%23333A45.svg?style=for-the-badge&logo=stylelint&logoColor=%23EC4899)
+![Commitlint](https://img.shields.io/badge/Commitlint-%23333A45.svg?style=for-the-badge&logo=git&logoColor=%23EC4899)
+## 🧪 Testing
+![Vitest](https://img.shields.io/badge/Vitest-%23333A45.svg?style=for-the-badge&logo=vitest&logoColor=%23EC4899)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23333A45.svg?style=for-the-badge&logo=testing-library&logoColor=%23EC4899)
+## 🔑 Validation
+![Zod](https://img.shields.io/badge/Zod-%23333A45.svg?style=for-the-badge&logo=zod&logoColor=%23EC4899)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zagorky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=zagorky&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zagorky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
+![](https://github-readme-stats.vercel.app/api?username=zagorky&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zagorky&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zagorky&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zagorky&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=zagorky&style=for-the-badge&color=db2777)
 
-![Profile views](https://komarev.com/ghpvc/?username=zagorky&style=for-the-badge)
-
+---
+[![](https://visitcount.itsvg.in/api?id=zagorky&icon=4&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[//]: # (### Audio Player)
-
-[//]: # ()
-[//]: # (- Stack:HTML5, CSS, JS)
-
-[//]: # (- Deploy: [zagorky.github.io/audio-player/audio-player/]&#40;zagorky.github.io/audio-player/audio-player/&#41;)
-
-[//]: # (- Repo: [https://github.com/zagorky/Audio-player/tree/gh-pages]&#40;https://github.com/zagorky/Audio-player/tree/gh-pages&#41;)
-
-[//]: # ()
-[//]: # (![gif]&#40;https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/player.gif&#41;)
-
-[//]: # (### Whack-A-Mole)
-
-[//]: # ()
-[//]: # (- Stack:HTML5, CSS, JS)
-
-[//]: # (- Deploy: [https://zagorky.github.io/Whack-A-Mole/random-game/]&#40;https://zagorky.github.io/Whack-A-Mole/random-game/&#41; )
-
-[//]: # (- Repo: [https://github.com/zagorky/Whack-A-Mole]&#40;https://github.com/zagorky/Whack-A-Mole&#41;)
-
-[//]: # ()
-[//]: # (![gif]&#40;https://github.com/zagorky/zagorky/blob/main/src/game.gif&#41;)
-
-[//]: # ()
-[//]: # (### Photo Gallery)
-
-[//]: # ()
-[//]: # (- Stack:HTML5, CSS, JS)
-
-[//]: # (- Deploy: [https://zagorky.github.io/Photo-gallery/photo-gallery/]&#40;https://zagorky.github.io/Photo-gallery/photo-gallery/&#41;)
-
-[//]: # (- Repo: [https://github.com/zagorky/Photo-gallery]&#40;https://github.com/zagorky/Photo-gallery&#41;)
-
-[//]: # ()
-[//]: # (![gif]&#40;https://github.com/zagorky/zagorky/blob/0159dd08fcf5ca5c8a47c29183090e62a7d8fbe9/src/gallery.gif&#41;)
-
-
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zagorky&theme=shadow-orange)](https://git.io/streak-stats)  -->
-
-<!--
-**zagorky/zagorky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
