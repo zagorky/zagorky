@@ -1,11 +1,12 @@
 # 🧌 About Me:
 I'm **Daria** and currently learning Angular and React
 
+[![My CV](https://img.shields.io/badge/My_CV_😊-%23333A45.svg?style=for-the-badge&logo=&logoColor=%23EC4899&labelColor=333A45)](src/cv.pdf)
+
 ## 📞👂🏻 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%23333A45.svg?style=for-the-badge&logo=discord&logoColor=%23EC4899&labelColor=333A45)](https://discord.gg/zagorky)
+[![Discord](https://img.shields.io/badge/Discord-%23333A45.svg?style=for-the-badge&logo=discord&logoColor=%23EC4899&labelColor=333A45)](https://discordapp.com/users/1172951845149343826)
 [![Email](https://img.shields.io/badge/Email-%23333A45.svg?style=for-the-badge&logo=gmail&logoColor=%23EC4899&labelColor=333A45)](mailto:immelnikovadaria@inbox.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-%23333A45.svg?style=for-the-badge&logo=telegram&logoColor=%23EC4899&labelColor=333A45)](https://t.me/zagorky)
-
 # 💻 Tech Stack:
 ## 👅 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23333A45.svg?style=for-the-badge&logo=javascript&logoColor=%23EC4899)
@@ -16,7 +17,7 @@ I'm **Daria** and currently learning Angular and React
 ![React](https://img.shields.io/badge/React-%23333A45.svg?style=for-the-badge&logo=react&logoColor=%23EC4899)
 ![React Router](https://img.shields.io/badge/React_Router-%23333A45.svg?style=for-the-badge&logo=react-router&logoColor=%23EC4899)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23333A45.svg?style=for-the-badge&logo=reacthookform&logoColor=%23EC4899)
-![Zustand](https://img.shields.io/badge/Zustand-%23333A45.svg?style=for-the-badge&logo=zustand&logoColor=%23EC4899)
+![Zustand](https://img.shields.io/badge/Zustand-%23333A45.svg?style=for-the-badge&logo=&logoColor=%23EC4899)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23333A45.svg?style=for-the-badge&logo=react-query&logoColor=%23EC4899)
 ![TanStack Router](https://img.shields.io/badge/TanStack_Router-%23333A45.svg?style=for-the-badge&logo=react-router&logoColor=%23EC4899)
 ![SWR](https://img.shields.io/badge/SWR-%23333A45.svg?style=for-the-badge&logo=vercel&logoColor=%23EC4899)
