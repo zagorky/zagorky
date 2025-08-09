@@ -1,7 +1,7 @@
 # 🧌 About Me:
 I'm **Daria** and currently learning Angular and React
 
-[![My CV](https://img.shields.io/badge/My_CV_😊-%23333A45.svg?style=for-the-badge&logo=&logoColor=%23EC4899&labelColor=333A45)](src/cv.pdf)
+[![My CV](https://img.shields.io/badge/My_CV_😊-%23333A45.svg?style=for-the-badge&logo=&logoColor=%23EC4899&labelColor=333A45)](src/CV.md)
 
 ## 📞👂🏻 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%23333A45.svg?style=for-the-badge&logo=discord&logoColor=%23EC4899&labelColor=333A45)](https://discordapp.com/users/1172951845149343826)
