@@ -1,9 +1,10 @@
 # 🧌 About Me:
-I'm Daria and currently learning Angular and React
+I'm **Daria** and currently learning Angular and React
 
 ## 📞👂🏻 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%23333A45.svg?style=for-the-badge&logo=discord&logoColor=%23EC4899&labelColor=333A45)](https://discord.gg/zagorky)
 [![Email](https://img.shields.io/badge/Email-%23333A45.svg?style=for-the-badge&logo=gmail&logoColor=%23EC4899&labelColor=333A45)](mailto:immelnikovadaria@inbox.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-%23333A45.svg?style=for-the-badge&logo=telegram&logoColor=%23EC4899&labelColor=333A45)](https://t.me/zagorky)
 
 # 💻 Tech Stack:
 ## 👅 Languages
@@ -21,12 +22,12 @@ I'm Daria and currently learning Angular and React
 ![SWR](https://img.shields.io/badge/SWR-%23333A45.svg?style=for-the-badge&logo=vercel&logoColor=%23EC4899)
 ### 🅰️ Angular
 ![Angular](https://img.shields.io/badge/Angular-%23333A45.svg?style=for-the-badge&logo=angular&logoColor=%23EC4899)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-%23333A45.svg?style=for-the-badge&logo=angular&logoColor=%23EC4899)
 ## 🎨 Styling
 ![CSS3](https://img.shields.io/badge/CSS3-%23333A45.svg?style=for-the-badge&logo=css3&logoColor=%23EC4899)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23333A45.svg?style=for-the-badge&logo=tailwind-css&logoColor=%23EC4899)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-%23333A45.svg?style=for-the-badge&logo=daisyui&logoColor=%23EC4899)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-%23333A45.svg?style=for-the-badge&logo=radix-ui&logoColor=%23EC4899)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-%23333A45.svg?style=for-the-badge&logo=angular&logoColor=%23EC4899)
 ## 🛠️ Tools & Utilities
 ![Vite](https://img.shields.io/badge/Vite-%23333A45.svg?style=for-the-badge&logo=vite&logoColor=%23EC4899)
 ![Netlify](https://img.shields.io/badge/Netlify-%23333A45.svg?style=for-the-badge&logo=netlify&logoColor=%23EC4899)
