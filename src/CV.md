@@ -8,6 +8,7 @@
 ---
 ## Professional Summary  
 Frontend developer with hands-on experience in React ecosystem and modern web technologies. Career changer with 8+ years in business management, bringing strong problem-solving and team leadership skills to development. Passionate about creating efficient, accessible web applications with clean code architecture.
+
 **Core Competencies:**  
 ✓ React & TypeScript development  
 ✓ State management (Zustand, SWR, Tanstack Query)  
@@ -17,41 +18,73 @@ Frontend developer with hands-on experience in React ecosystem and modern web te
 
 ---
 ## Technical Skills  
+
 **Frontend Development:**  
+
 React | TypeScript | JavaScript (ES6+) | HTML5 | CSS3/SASS | Tailwind CSS  
+
 **Libraries:**  
+
 Zustand | SWR | Tanstack Query | Tanstack Router | React Hook Form  | React Router(Remix)
+
 **Testing & Quality:**  
+
 Vitest | React Testing Library | ESLint | Prettier | Biome | Stylelint  | SonsrQube | Commitlint | Stylelint
+
 **Workflow & Tools:**  
+
 Vite | WebStorm | Git/GitHub/GitHub Actions | Husky | lint-staged | Netlify  
+
 **Currently Learning:**  
+
 Angular | React  | Next.js
 
 ---
 ## Professional Experience  
+
+### Junior Frontend Developer
+
+**NextDocs.ai** | August 2025 – Present
+*AI-powered documentation platform*
+
+Key Responsibilities & Achievements:
+
+- Develop and maintain user interface components for a dynamic AI documentation platform using React and TypeScript.
+- Implement rich text editing features and collaborative functionality using TipTap editor.
+- Build interactive whiteboard and canvas-based elements using TLDraw library.
+
+**Tech Stack:** React, TypeScript, Tailwind CSS, Zustand, React Router, TipTap, TLDraw
+
 ### Team Lead & Frontend Developer  
+
 **Second Chapter Bookstore** | April 2025 - Present  
+
 *E-commerce platform for used books (commercetools-based)*  
 [Project Link](https://github.com/zagorky/second-chapter)  
+
 **Key Achievements:**  
 - Led development team as part-time Scrum Master  
 - Implemented core features: product catalog (filtering/sorting), and routing  
 - Optimized performance with lazy loading, Suspense, and caching strategies  
 - Established CI/CD pipeline  
+
 **Tech Stack:** React, TypeScript, Tailwind, Zustand, SWR, Vitest  
 
 ---
 ## Education & Certification  
+
 **JavaScript/Frontend Course**  
+
 Rolling Scopes School | 2024-2025  
 - Ranked in top 8 of competitive program  
 
 **JavaScript Professional Course**  
+
 Lobachevsky State University | 2024  
 
 ---
 ## Additional Information  
+
 - **Languages:** Russian (Native), English (Intermediate B1)  
 - **Location Preference:** Remote only (Nizhny Novgorod-based)  
 - **Background:** Former Purchasing Director transitioning to tech  
