@@ -29,31 +29,50 @@ Zustand | SWR | Tanstack Query | Tanstack Router | React Hook Form  | React Rout
 
 **Testing & Quality:**  
 
-Vitest | React Testing Library | ESLint | Prettier | Biome | Stylelint  | SonsrQube | Commitlint | Stylelint
+Vitest | React Testing Library | ESLint | Prettier | Biome | Stylelint | SonsrQube | Commitlint | Stylelint
 
 **Workflow & Tools:**  
 
-Vite | WebStorm | Git/GitHub/GitHub Actions | Husky | lint-staged | Netlify  
+Vite | WebStorm | Git/GitHub/GitHub Actions | Husky | lint-staged | Netlify | Vercel | Figma 
 
 **Currently Learning:**  
 
-Angular | React  | Next.js
+Angular | React  | Next.js 
 
 ---
 ## Professional Experience  
 
-### Junior Frontend Developer
+### Frontend Developer
 
 **NextDocs.ai** | August 2025 – Present
-*AI-powered documentation platform*
 
-Key Responsibilities & Achievements:
+*AI-powered documentation platform*
+[Project Link](https://nextdocs.ai/)
+
+**Key Responsibilities & Achievements:**
 
 - Develop and maintain user interface components for a dynamic AI documentation platform using React and TypeScript.
 - Implement rich text editing features and collaborative functionality using TipTap editor.
 - Build interactive whiteboard and canvas-based elements using TLDraw library.
+- Added CI/CD pipeline.
 
-**Tech Stack:** React, TypeScript, Tailwind CSS, Zustand, React Router, TipTap, TLDraw
+**Tech Stack:** React, TypeScript, Tailwind CSS, Hero UI, Zustand, React Router, TipTap, TLDraw
+
+### Frontend Developer  
+
+**REST Client App** | July 2025 - September 2025  
+
+*REST API client*  
+[Project Link](https://github.com/zagorky/rest-client-app)  
+
+**Key Responsibilities & Achievements:**
+
+- Developed a REST API client using React and TypeScript.  
+- Added support for using variables in request URLs and request bodies.  
+- Implemented landing page
+- Added sign-in and sign-up functionality.  
+
+**Tech Stack:** NextJS, React, TypeScript, Tailwind CSS, React Hook Form, Convex, Chakra UI, Jotai
 
 ### Team Lead & Frontend Developer  
 
@@ -62,7 +81,8 @@ Key Responsibilities & Achievements:
 *E-commerce platform for used books (commercetools-based)*  
 [Project Link](https://github.com/zagorky/second-chapter)  
 
-**Key Achievements:**  
+**Key Responsibilities & Achievements:** 
+
 - Led development team as part-time Scrum Master  
 - Implemented core features: product catalog (filtering/sorting), and routing  
 - Optimized performance with lazy loading, Suspense, and caching strategies  
@@ -72,6 +92,11 @@ Key Responsibilities & Achievements:
 
 ---
 ## Education & Certification  
+
+**React Course**
+
+Rolling Scopes School | 2025
+- Ranked in top 1 of competitive program
 
 **JavaScript/Frontend Course**  
 
