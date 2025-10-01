@@ -7,14 +7,23 @@
 
 ---
 ## Professional Summary  
-Frontend developer with hands-on experience in React ecosystem and modern web technologies. Career changer with 8+ years in business management, bringing strong problem-solving and team leadership skills to development. Passionate about creating efficient, accessible web applications with clean code architecture.
+Frontend Developer with practical experience building applications using React, TypeScript, and modern tooling. A former business manager with proven leadership and problem-solving abilities, now focused on creating high-quality, accessible web solutions. A dedicated self-learner committed to continuous skill development.
 
 **Core Competencies:**  
-✓ React & TypeScript development  
-✓ State management (Zustand, SWR, Tanstack Query)  
-✓ CI/CD implementation (GitHub Actions)  
-✓ Agile team leadership  
-✓ Rapid learning and self-education  
+### Frontend Development & Architecture
+
+- React & TypeScript Development
+- State Management (Zustand, Jotai) & Data Fetching (SWR, TanStack Query)
+- Modern Build Tools (Vite) and CI/CD Pipelines (GitHub Actions)
+- Performance Optimization (Lazy Loading, Caching)
+- Testing & Code Quality (Vitest, React Testing Library, ESLint, Prettier)
+
+### Leadership & Soft Skills
+
+- Agile Team Leadership & Mentoring
+- Problem-Solving & Analytical Thinking
+- Project Ownership & Process Improvement
+- Rapid Learning & Adaptability
 
 ---
 ## Technical Skills  
@@ -25,11 +34,11 @@ React | TypeScript | JavaScript (ES6+) | HTML5 | CSS3/SASS | Tailwind CSS
 
 **Libraries:**  
 
-Zustand | SWR | Tanstack Query | Tanstack Router | React Hook Form  | React Router(Remix)
+Zustand | Jotai | SWR | Tanstack Query | Tanstack Router | React Hook Form  | React Router(Remix)
 
 **Testing & Quality:**  
 
-Vitest | React Testing Library | ESLint | Prettier | Biome | Stylelint | SonsrQube | Commitlint | Stylelint
+Vitest | React Testing Library | ESLint | Prettier | Biome | Stylelint | SonarQube | Commitlint | Stylelint
 
 **Workflow & Tools:**  
 
@@ -46,7 +55,7 @@ Angular | React  | Next.js
 
 **NextDocs.ai** | August 2025 – Present
 
-*AI-powered documentation platform*
+*AI-powered documentation platform*  
 [Project Link](https://nextdocs.ai/)
 
 **Key Responsibilities & Achievements:**
@@ -60,7 +69,7 @@ Angular | React  | Next.js
 
 ### Frontend Developer  
 
-**REST Client App** | July 2025 - September 2025  
+**REST Client App** | September 2025  
 
 *REST API client*  
 [Project Link](https://github.com/zagorky/rest-client-app)  
