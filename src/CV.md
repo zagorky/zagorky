@@ -64,6 +64,7 @@ Angular | React  | Next.js
 - Implement rich text editing features and collaborative functionality using TipTap editor.
 - Build interactive whiteboard and canvas-based elements using TLDraw library.
 - Added CI/CD pipeline.
+- Conceived and implemented a feature to seamlessly embed and render interactive Swagger documentation from OpenAPI specs (via JSON or URL), significantly improving the platform's capability to display and test API references directly within user documentation.
 
 **Tech Stack:** React, TypeScript, Tailwind CSS, Hero UI, Zustand, React Router, TipTap, TLDraw
 
